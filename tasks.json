@@ -1,0 +1,38 @@
+[
+  {
+    "name": "task1",
+    "duration": 1
+  },
+  {
+    "name": "task2",
+    "duration": 1
+  },
+  {
+    "name": "task3",
+    "duration": 5
+  },
+  {
+    "name": "water",
+    "duration": "1"
+  },
+  {
+    "name": "food",
+    "duration": "1"
+  },
+  {
+    "name": "hi",
+    "duration": "1"
+  },
+  {
+    "name": "lo",
+    "duration": "2"
+  },
+  {
+    "name": "oi deb",
+    "duration": "1"
+  },
+  {
+    "name": "oi vitu",
+    "duration": "1"
+  }
+]

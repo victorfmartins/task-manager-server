@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.task {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.task.finished {
+    opacity: 0.5;
+}
